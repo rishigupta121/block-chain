@@ -17,7 +17,6 @@ class Block {
         this.hash = hash.toString();
     }
 }
-
 var sockets = [];
 var MessageType = {
     QUERY_LATEST: 0,
