@@ -19,8 +19,6 @@ All the current implementations of blockchains are tightly coupled with the larg
 ![alt tag](naivechain_components.png)
 
 
-
-
 ### Quick start
 (set up two connected nodes and mine 1 block)
 ```
